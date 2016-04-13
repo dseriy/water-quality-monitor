@@ -1,3 +1,1 @@
-This is a water quality water used to test the quality of tap water, and by using cognitive computing, finding trends in the quality,
-and reporting on the results in a easy, user friendly way. This product could prevent accidents like the water quality issue in 
-Flint, Michigan. 
+This is a water quality tester used to test the quality of tap water, and by using cognitive computing, it will find trends in the quality, and report on the results in a easy, user friendly way. This system could prevent future accidents like the water quality issue in Flint, Michigan. 
